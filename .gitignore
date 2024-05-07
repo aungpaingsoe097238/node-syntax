@@ -1,6 +1,0 @@
-mongoose/node_modules/
-mongoose/public
-mongoose/.env
-sequelize/node_modules/
-sequelize/public
-sequelize/.env
